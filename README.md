@@ -1,6 +1,6 @@
-###EC2 Webserver 
+### EC2 Webserver 
 
-##Create EC2 Instance Resource Webpage (source code provided in GitHub link "(https://github.com/rcomrie/PRJT001.git) " publish on Public IP
+## Create EC2 Instance Resource Webpage (source code provided in GitHub link "(https://github.com/rcomrie/PRJT001.git) " publish on Public IP
 
 
 ### Project Specifications:
@@ -13,6 +13,7 @@ Instance Type: T2.micro (Free Tier Eligible)
 Image: Ubuntu
 Key Pair: .pem
 Storage: Default
+
 ![Screenshot(vpc)](https://github.com/user-attachments/assets/ad56287a-b554-4fb5-b536-8b9da0f745e5)
 
 
