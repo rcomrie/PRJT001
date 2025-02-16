@@ -1,6 +1,6 @@
-### EC2 Webserver 
+# EC2 Webserver 
 
-## Create EC2 Instance Resource Webpage (source code provided in GitHub link "(https://github.com/rcomrie/PRJT001.git) " publish on Public IP
+### Create EC2 Instance Resource Webpage (source code provided in GitHub link "(https://github.com/rcomrie/PRJT001.git) " publish on Public IP
 
 
 ### Project Specifications:
